@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and open source contribution 
 - 🌱 I’m currently learning Full stack development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/rishikesh-maddheshiya-84052b211/
+- 📫 How to reach out me ... https://www.linkedin.com/in/rishikesh-maddheshiya-84052b211/
 
 <!---
 Rishikesh63/Rishikesh63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
