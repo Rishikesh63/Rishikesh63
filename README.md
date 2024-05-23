@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Rishikesh63's GitHub | Stats](https://stats.quine.sh/Rishikesh63/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rishikesh63)
 
+[![Rishikesh63's GitHub | Dependencies](https://stats.quine.sh/Rishikesh63/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rishikesh63)
