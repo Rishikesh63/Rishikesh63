@@ -12,3 +12,9 @@ You can click the Preview link to take a look at your changes.
 [![Rishikesh63's GitHub | Stats](https://stats.quine.sh/Rishikesh63/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rishikesh63)
 
 [![Rishikesh63's GitHub | Dependencies](https://stats.quine.sh/Rishikesh63/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rishikesh63)
+
+[![Rishikesh63's GitHub | Languages Over Time](https://stats.quira.sh/Rishikesh63/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rishikesh63)
+
+[![Rishikesh63's GitHub | Topics Over Time](https://stats.quira.sh/Rishikesh63/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rishikesh63)
+
+[![Rishikesh63's Stack Overflow | Stats](https://stats.quira.sh/Rishikesh63/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rishikesh63)
